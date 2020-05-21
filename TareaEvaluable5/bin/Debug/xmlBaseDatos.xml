@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <DataTable1>
+    <IDGeneral>1</IDGeneral>
+    <IDUsuario>1</IDUsuario>
+    <Contraseña>7777</Contraseña>
+    <NombreUsuario>Marce</NombreUsuario>
+    <NombreReal>Marcela</NombreReal>
+    <TipoUsuario>Admin</TipoUsuario>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+  <DataTable1>
+    <IDGeneral>2</IDGeneral>
+    <IDUsuario>2</IDUsuario>
+    <Contraseña>2</Contraseña>
+    <NombreUsuario>2</NombreUsuario>
+    <NombreReal>2</NombreReal>
+    <TipoUsuario>2</TipoUsuario>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+  <DataTable1>
+    <IDGeneral>3</IDGeneral>
+    <IDUsuario>3</IDUsuario>
+    <Contraseña>3</Contraseña>
+    <NombreUsuario>3</NombreUsuario>
+    <NombreReal>3</NombreReal>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+  <DataTable1>
+    <IDGeneral>5</IDGeneral>
+    <IDUsuario>5</IDUsuario>
+    <Contraseña>5</Contraseña>
+    <NombreUsuario>5</NombreUsuario>
+    <NombreReal>5</NombreReal>
+    <TipoUsuario>5</TipoUsuario>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+  <DataTable1>
+    <IDGeneral>4</IDGeneral>
+    <IDUsuario>4</IDUsuario>
+    <Contraseña>4</Contraseña>
+    <NombreUsuario>4</NombreUsuario>
+    <NombreReal>4</NombreReal>
+    <TipoUsuario>4</TipoUsuario>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+  <DataTable1>
+    <IDGeneral>6</IDGeneral>
+    <IDUsuario>6</IDUsuario>
+    <Contraseña>6</Contraseña>
+    <NombreUsuario>6</NombreUsuario>
+    <NombreReal>66</NombreReal>
+    <TipoUsuario>6</TipoUsuario>
+    <Ingreso>20/05/2020; 20/05/2020</Ingreso>
+  </DataTable1>
+</DataSet1>

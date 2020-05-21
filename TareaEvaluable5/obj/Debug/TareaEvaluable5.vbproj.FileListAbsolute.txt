@@ -1,0 +1,12 @@
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\bin\Debug\TareaEvaluable5.exe.config
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\bin\Debug\TareaEvaluable5.exe
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\bin\Debug\TareaEvaluable5.pdb
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\bin\Debug\TareaEvaluable5.xml
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.vbprojAssemblyReference.cache
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.Form1.resources
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.Resources.resources
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.vbproj.GenerateResource.cache
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.vbproj.CoreCompileInputs.cache
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.exe
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.xml
+C:\Users\marta\source\repos\TareaEvaluable5\TareaEvaluable5\obj\Debug\TareaEvaluable5.pdb
